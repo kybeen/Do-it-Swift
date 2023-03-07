@@ -4,5 +4,7 @@
 - Chapter_01
   - 기초 iOS앱 실습
 - Chapter_02
-  - 이미지 뷰
-  - 데이트 피커
+  - 이미지 뷰 (Image View)
+  - 데이트 피커 (Date Picker)
+  - 피커 뷰 (Picker View)
+  - 얼럿 (Alert)
