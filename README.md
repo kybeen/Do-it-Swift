@@ -9,3 +9,4 @@
   - 피커 뷰 (Picker View)
   - 얼럿 (Alert)
   - 웹 뷰 (Web View)
+  - 맵 뷰 (Map View)
