@@ -1,4 +1,7 @@
 ## 13 음악 재생하고 녹음하기
+```
+import AVFoundation
+```
 ----
 
 **[ AVAudioPlayer ]**
