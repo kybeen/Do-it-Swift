@@ -4,8 +4,8 @@
   - 오른쪽 : 아이폰 SE (3세대)
 
 <center class="half">
-  <img width="437" alt="image" src="https://user-images.githubusercontent.com/89764127/224477803-cb276822-8377-4723-997b-4113b268c5d0.png">
-  <img width="442" alt="image" src="https://user-images.githubusercontent.com/89764127/224477835-e3f00a5e-f32f-4bbc-ac1b-9dc96ab2b052.png">
+  <img width="100" alt="image" src="https://user-images.githubusercontent.com/89764127/224477803-cb276822-8377-4723-997b-4113b268c5d0.png">
+  <img width="100" alt="image" src="https://user-images.githubusercontent.com/89764127/224477835-e3f00a5e-f32f-4bbc-ac1b-9dc96ab2b052.png">
 <center>
 
 -----
