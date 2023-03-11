@@ -15,3 +15,7 @@
   - 탭 바 컨트롤러 (Tab bar Controller)
   - 내비게이션 컨트롤러 (Navigation Controller)
   - 테이블 뷰 컨트롤러 (Table View Controller)
+- 선행학습 : **오토 레이아웃 Auto Layout**
+- Chapter_04 넷째마당 : **멀티미디어 활용하기**
+  - 음악 재생하고 녹음하기
+  - 비디오 재생 앱 만들기
