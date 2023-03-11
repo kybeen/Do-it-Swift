@@ -17,3 +17,4 @@
 - 스택 뷰는 별다른 제약 조건을 사용하지 않아도 내부 객체들을 원하는 모양으로 정렬할 수 있다.
 - **[ 가로 스택 뷰 / 세로 스택 뷰 ]** 로 나뉨
 - 스택 뷰는 중첩해서 사용 가능
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/89764127/224477580-6bd61123-5b85-4fdf-af32-625112a6fe06.png">
