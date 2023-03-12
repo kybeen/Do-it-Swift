@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>사진 라이브러리 접근키</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>사진 라이브러리 저장키</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>마이크 접근키</string>
+	<key>NSCameraUsageDescription</key>
+	<string>카메라 접근키</string>
+</dict>
+</plist>
