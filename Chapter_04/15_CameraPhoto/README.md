@@ -97,4 +97,5 @@ func imagePickerControllerDidCancel(_ picker: UIImagePickerController) {
 
 ----
 **[ 핸드폰 빌드 시 권한 설정 ]**
+
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/89764127/224558804-50385cb4-9c74-4691-b201-6a9491b99180.png">
